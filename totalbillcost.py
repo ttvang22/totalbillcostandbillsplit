@@ -2,8 +2,10 @@
 name = raw_input("Hello, What is your name?")
 print "Nice, Thank You", name
 
+#Beginning
 print "Lets begin, please try to be as accurate as you can."
 
+#Adding information on personal bills
 my_income = input("Please add just your monthly income here ")
 print "This is your total monthly income", my_income, "dollars"
 
